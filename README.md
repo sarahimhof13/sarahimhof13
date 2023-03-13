@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning JavaScript & React
+🌱 Software Engineer specialising in front-end development
 
 
 ## 🌐 Socials:
